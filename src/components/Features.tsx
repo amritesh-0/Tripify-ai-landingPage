@@ -5,37 +5,37 @@ const Features = () => {
   const features = [
     {
       icon: Zap,
-      title: "🔌 Offline AI Assistance",
+      title: "Offline AI Assistance",
       description: "Get smart travel support without internet using on-device AI and RAG.",
       color: "text-green-600"
     },
     {
       icon: Package,
-      title: "📦 Modular Destination Packages",
+      title: "Modular Destination Packages",
       description: "Download destination-specific bundles (e.g., Leh-Ladakh) for offline use.",
       color: "text-blue-600"
     },
     {
       icon: MessageCircle,
-      title: "🧠 Smart On-Device Chatbot",
+      title: "Smart On-Device Chatbot",
       description: "Ask anything—routes, food spots, cultural tips, safety info—get instant replies offline.",
       color: "text-purple-600"
     },
     {
       icon: Navigation,
-      title: "🧭 Offline Map Navigation",
+      title: "Offline Map Navigation",
       description: "Navigate using integrated GPS and maps, even in zero-connectivity zones.",
       color: "text-orange-600"
     },
     {
       icon: MapPin,
-      title: "🗺️ Nearby Itinerary Discovery",
+      title: "Nearby Itinerary Discovery",
       description: "Discover local attractions, events, and scenic spots based on your location and preferences.",
       color: "text-teal-600"
     },
     {
       icon: Mountain,
-      title: "🏕️ Designed for Remote Adventures",
+      title: "Designed for Remote Adventures",
       description: "Ideal for off-grid regions where regular travel apps fail.",
       color: "text-indigo-600"
     }

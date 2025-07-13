@@ -37,7 +37,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-64 h-auto bg-gray-800 rounded-3xl p-2 shadow-2xl">
                 <img 
-                  src="/src/assests/image.png" 
+                  src="/assets/image.png" 
                   alt="Tripify AI App Interface" 
                   className="w-full h-auto rounded-2xl object-cover"
                 />
